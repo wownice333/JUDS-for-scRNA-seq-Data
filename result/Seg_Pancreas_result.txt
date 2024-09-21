@@ -1,0 +1,4 @@
+Load saved weights file:
+ACC: 0.9943
+NMI: 0.9802
+ARI: 0.9915
